@@ -1,6 +1,6 @@
 # ako80218 WordPress Skeleton
 
-This WordPress skeleton repo is a goiod place to begin a WordPress project repo. It's a fork of Mark Jaquith's [WordPress Skeleton](href="https://github.com/markjaquith/WordPress-Skeleton")
+This WordPress skeleton repo is a good place to begin a WordPress project repo. It's a fork of Mark Jaquith's [WordPress Skeleton](href="https://github.com/markjaquith/WordPress-Skeleton")
 
 ## Assumptions
 
